@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './components/index.css';
+import './index.css';
 import Hero from './components/hero/hero';
 import reportWebVitals from './reportWebVitals';
 

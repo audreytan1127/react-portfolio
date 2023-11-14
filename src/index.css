@@ -15,4 +15,9 @@ body {
   background-color: var(--main);
   color: var(--dark);
 }
+.page-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 
+}

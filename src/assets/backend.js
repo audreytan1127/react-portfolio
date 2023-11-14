@@ -1,0 +1,42 @@
+export const BACKEND_LANG=[
+    {
+        language:"Java",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"Spring | Spring Boot | Spring Security",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"Thymeleaf",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"Lombok",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"MySQL",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"MongoDB",
+        proficiency:"Beginner",
+        location:"CodeUp"
+    },
+    {
+        language:"Maven",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"Gradle",
+        proficiency:"Beginner",
+        location:"CodeUp"
+    },
+]
