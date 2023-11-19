@@ -20,7 +20,7 @@ export const BACKEND_LANG=[
         location:"CodeUp"
     },
     {
-        language:"MySQL",
+        language:"SQL | MySQL",
         proficiency:"Proficient",
         location:"CodeUp"
     },
@@ -37,6 +37,11 @@ export const BACKEND_LANG=[
     {
         language:"Gradle",
         proficiency:"Beginner",
+        location:"CodeUp"
+    },
+    {
+        language:"WebSocket",
+        proficiency:"Proficient",
         location:"CodeUp"
     },
 ]

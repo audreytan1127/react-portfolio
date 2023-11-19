@@ -10,7 +10,7 @@ export const FRONTEND_LANG = [
         location: "CodeUp"
     },
     {
-        language: "CSS",
+        language: "CSS / CSS3",
         proficiency:"Proficient",
         location: "CodeUp"
     },
@@ -20,7 +20,7 @@ export const FRONTEND_LANG = [
         location: "CodeUp"
     },
     {
-        language: "Sass /Scss",
+        language: "Sass / Scss",
         proficiency:"Proficient",
         location: "CodeUp"
     },
@@ -52,6 +52,16 @@ export const FRONTEND_LANG = [
     {
         language:"Node.js",
         proficiency:"Beginner",
+        location:"CodeUp"
+    },
+    {
+        language:"STOMP JS",
+        proficiency:"Proficient",
+        location:"CodeUp"
+    },
+    {
+        language:"SockJS",
+        proficiency:"Proficient",
         location:"CodeUp"
     },
 ]
