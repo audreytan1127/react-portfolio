@@ -8,9 +8,10 @@ function Hero() {
             <Navbar/>
             <div className="hero container">
 
-                <header className="hero-header row">
+                <section className="hero-header row">
                     <div className="hero-images">
                         <img src={logo} className="logo container" alt="logo"/>
+                    {/*    Add carousel of different project screenshots, or video of capstone*/}
                     </div>
 
                     <div className="hero-captions row">
@@ -25,7 +26,8 @@ function Hero() {
                         </p>
                     </div>
 
-                </header>
+                </section>
+
             </div>
 
         </div>
